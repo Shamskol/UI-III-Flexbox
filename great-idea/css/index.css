@@ -63,4 +63,12 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Copy and paste your work from yesterday here and start to refactor into flexbox */
+header {
+	display: flex;
+	justify-content: space-evenly;
+}
+a {
+	text-decoration: none;
+color:grey;
+margin-top: 10px;
+}
