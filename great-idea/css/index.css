@@ -89,14 +89,11 @@ a {
 .header {
 	display: flex;
 	margin: 0 auto;
-	
 }
-
 
 .header {
 width: 800px;
 height: 350px;
-padding-bottom: 0px;
 border-bottom: 1px bold black;
 margin-bottom: 50px;
 margin-left:100px;
@@ -108,7 +105,7 @@ margin-top: 20px;
 	width: 200px;
 	height: 200px;
 	font-size: 200%;
-	margin-top: 10px;
+	margin-top:100px;
 }
 
 
@@ -121,6 +118,7 @@ margin-top: 20px;
 .bottom-content {
 	width: 800px; 
 	display: flex;
+	margin-bottom: 20px;
 	border-bottom: 1px bold black;
 }
 .services1 {
