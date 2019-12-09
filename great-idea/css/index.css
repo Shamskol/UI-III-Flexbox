@@ -53,7 +53,7 @@ table {
 }
 
 html, body {
-    height: 100%;
+    height: 800px;
     font-family: 'Titillium Web', sans-serif;
 }
 
@@ -63,4 +63,148 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Copy and paste your work from yesterday here and start to refactor into flexbox */
+/* Your code starts here! */
+
+body {
+	margin: 0 auto;
+	max-width: 875px;
+	
+}
+.container {
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 0;
+}
+.navigation {
+	display: flex;
+}
+a {
+	text-decoration: none;
+	padding: 20px;
+}
+.mid-title {
+	text-indent: 40px;
+}
+
+.header {
+	display: flex;
+	margin: 0 auto;
+}
+
+.header {
+width: 800px;
+height: 350px;
+border-bottom: 1px bold black;
+margin-bottom: 50px;
+margin-left:100px;
+margin-top: 20px;
+}
+
+
+.header1 {
+	width: 200px;
+	height: 200px;
+	font-size: 200%;
+	margin-top:100px;
+}
+
+
+.middle-content {
+	display: flex;
+	max-width: 800px;
+}
+
+
+.bottom-content {
+	width: 800px; 
+	display: flex;
+	margin-bottom: 20px;
+	border-bottom: 1px bold black;
+}
+.services1 {
+	width: 250px;
+	margin-right: 15px;
+}
+.services2 {
+	width: 250px;
+	margin-right: 15px;
+}
+.services3 {
+	width: 250px;
+}
+.middle-img {
+	width: 800px;
+	margin: 50px 0;
+
+}
+.copy {
+	margin-top: 40px;
+	text-align: center;
+}
+
+.top-content .box1 .box2 {
+	display: inline-block;
+}
+
+.box {
+	width: 400px;
+	height: 200px;
+	border: 1px solid black;
+	padding: 10px;
+	margin: 5px 5px;
+}
+.boxa {
+	width: 400px;
+	height: 200px;
+	border: 1px solid black;
+	padding: 10px;
+	margin: 5px 5px;
+	display: inline-block;
+}
+	.boxb {
+		width: 400px;
+		height: 200px;
+		border: 1px solid black;
+		padding: 10px;
+		margin: 5px 5px;
+		display: inline-block;
+	}
+
+
+
+
+.top-content {
+	display: inline-block;
+}
+
+.facts {
+	width: 400px;
+	height: 200px;
+}
+nav {
+	margin-bottom: 10px;
+}
+
+.services-header-img {
+	margin-bottom: 10px;
+}
+
+button {
+
+	margin-top: 10px;
+}
+ul {
+	margin-top: 0gpx ;
+}
+.cop {
+	text-align: center;
+	
+}
+p.services {
+	margin-bottom: 10px;
+}
+
+
+
+
+
