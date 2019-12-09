@@ -142,3 +142,69 @@ margin-top: 20px;
 	text-align: center;
 }
 
+.top-content .box1 .box2 {
+	display: inline-block;
+}
+
+.box {
+	width: 400px;
+	height: 200px;
+	border: 1px solid black;
+	padding: 10px;
+	margin: 5px 5px;
+}
+.boxa {
+	width: 400px;
+	height: 200px;
+	border: 1px solid black;
+	padding: 10px;
+	margin: 5px 5px;
+	display: inline-block;
+}
+	.boxb {
+		width: 400px;
+		height: 200px;
+		border: 1px solid black;
+		padding: 10px;
+		margin: 5px 5px;
+		display: inline-block;
+	}
+
+
+
+
+.top-content {
+	display: inline-block;
+}
+
+.facts {
+	width: 400px;
+	height: 200px;
+}
+nav {
+	margin-bottom: 10px;
+}
+
+.services-header-img {
+	margin-bottom: 10px;
+}
+
+button {
+
+	margin-top: 10px;
+}
+ul {
+	margin-top: 0gpx ;
+}
+.cop {
+	text-align: center;
+	
+}
+p.services {
+	margin-bottom: 10px;
+}
+
+
+
+
+
